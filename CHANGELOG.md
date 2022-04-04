@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.1.1 (04/04/2022)
+
+* Made Winston a peer dependency.
+* Added a `prepare_release` workflow to automatically prepare releases.
+
 ## 2.1.0 (10/20/2021)
 
 * Added TypeScript types.
